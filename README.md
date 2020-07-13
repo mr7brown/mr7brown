@@ -5,5 +5,4 @@
 - 👯 I’m looking to collaborate on ... Distributed systems and open source tech.
 - 🤔 I’m looking for help with ... Making information accessible.
 - 💬 Ask me about ... All things writing or how to create your own static site (Jekyll orr Gatsby).
-- ⚡ Fun fact: ... 
-
+ 

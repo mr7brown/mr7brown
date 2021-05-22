@@ -5,7 +5,7 @@
 🔭 I’m currently working on ... Developing technical specifications and documentation portals for HBO Max and WarnerMedia's Media Supply Chain.<br>
 🌱 I’m currently learning ... Javascript frameworks and Go!<br>
 🤝 I’m looking to collaborate on ... Distributed systems and open source tech.<br>
-💬 Ask me about ... All things writing or how to create your own static site (Jekyll orr Gatsby).
+💬 Ask me about ... All things writing or how to create your own static site (Jekyll or Gatsby).
  
  <hr>
  
